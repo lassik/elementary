@@ -1,0 +1,25 @@
+= Elementary
+
+Least-common-denominator GUI design language.
+
+== Window
+
+== Menu
+
+== Button
+
+== List/tree/table
+
+== Check box
+
+== Multiple-choice box (radio buttons)
+
+== Multiple-choice box (drop-down list)
+
+== Edit box (single-line)
+
+== Edit box (multi-line)
+
+== Image
+
+== Tabs
